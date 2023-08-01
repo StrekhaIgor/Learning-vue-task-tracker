@@ -64,4 +64,10 @@ div.task {
 p.done {
     text-decoration: line-through;
 }
+
+input {
+    padding: 5px;
+    display: inline-block;
+    margin: 15px;
+}
 </style>
